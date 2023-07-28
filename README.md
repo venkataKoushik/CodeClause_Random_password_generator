@@ -12,5 +12,6 @@ This password generator requires Python 3.x and the Tkinter library.
 
 <h2>Sample-Output:</h2>
 <br>
-![image](https://github.com/venkataKoushik/CodeClause_Random_password_generator/assets/123009890/d01560df-77ac-409a-ace7-5c9b252831a4)
+![image](https://github.com/venkataKoushik/CodeClause_Random_password_generator/assets/123009890/4ce6a5ed-6326-4b28-90f3-fac6b1aecb2d)
+
 

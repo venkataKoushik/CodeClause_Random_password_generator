@@ -12,7 +12,7 @@ This password generator requires Python 3.x and the Tkinter library.
 
 <h2>Sample-Output:</h2>
 <br>
-![image](https://github.com/venkataKoushik/CodeClause_Random_password_generator/assets/123009890/a51dd04c-284b-44f4-b8aa-ce46dd708096)
+<img src="Screenshot 2023-07-28 214550.png">
 
 
 

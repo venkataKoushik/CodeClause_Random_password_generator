@@ -10,7 +10,7 @@ To use the password generator, simply run the generate_password_gui() function a
 <h2>Dependencies</h2>
 This password generator requires Python 3.x and the Tkinter library.
 
-Sample-Output:
+<h2>Sample-Output:</h2>
 <br>
 ![image](https://github.com/venkataKoushik/CodeClause_Random_password_generator/assets/123009890/d01560df-77ac-409a-ace7-5c9b252831a4)
 
